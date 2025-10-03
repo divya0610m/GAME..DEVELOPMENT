@@ -109,3 +109,5 @@ closegraph();
 ![alt text](<Screenshot 2025-10-03 094428.png>)
 
 ## Result :
+
+Thus the program was executed and the output was obtained successfully.
